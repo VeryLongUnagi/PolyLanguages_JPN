@@ -1,4 +1,4 @@
-# Welcome to the Tumblr Languages bot's Japanese Room!
-Hello, and welcome to the Tumblr Bot Japanese Group!
+# Welcome to the Tumblr Languages Japanese Room!
 
-**Welcome to the Tumblr Japanese 
+**Here you are encouraged to learn and speak/type Japanese to your heart's content and help others do the same as well.  Please enjoy your stay!
+
