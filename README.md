@@ -6,7 +6,7 @@
 **Just rules so that everyone can enjoy the group without feeling crappy!**
 
 **Instant Bans:**
-* **Posting or asking for NSFW/Pornographic content**
+* **Posting or asking for NSFW/Pornographic multimedia content**
 * **Criticizing certain groups/race/gender/religion**
 * **I have to stress this, but YES the gender part includes people from LGBT communities**
 * **Randomely flirting with others and creeping**
@@ -26,5 +26,10 @@
 * **Polemical Subjects - talking about politics/religion often leads to fights**
 * **Being passive agressive - yes, people are aware that you are actually being agressive**
 * **Passive agressiveness may lead to a warning and a ban**
+
+**Things that are OK:**
+* **Swearing in a context that are not aimed to hurt others**
+* **Posting dank memes**
+* **Posting funny cat videos**
 
 **After a ban, there will be no second chance back into the chatrooms.  Begging and spamming admins to be let back into the group will result in you being reported to Telegram for spam.**
