@@ -35,5 +35,7 @@
 **After a ban, there will be no second chance back into the chatrooms.  Begging and spamming admins to be let back into the group will result in you being reported to Telegram for spam.**
 
 ##Learning Resources
+**Japanese learning resources recommended by advanced speakers in the group!**
 ###Software
 * *zkanji* - Kanji search by various methods, uses JMDict as database http://zkanji.sourceforge.net/
+###Online Resources
