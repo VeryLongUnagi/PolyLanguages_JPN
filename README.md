@@ -5,7 +5,9 @@
 ##Rules
 **Please take some time to read the rules so that everyone can enjoy the group without feeling crappy!**
 
-**Instant Bans:**
+
+
+###Instant Bans:
 * **Posting or asking for NSFW/Pornographic multimedia content**
 * **Criticizing certain groups/race/gender/religion**
 * **I have to stress this, but YES the gender part includes people from LGBT communities**
@@ -17,17 +19,17 @@
 * **Joining a group in the aim to be a nuisance**
 * **Bullying**
 
-**You'll receive a pre-ban warning with following:**
+###You'll receive a pre-ban warning with following:**
 * **Being violent/aggressive (don't do it if you're gonna say sorry later)**
 * **Someone reports you on non-instaban issues and multiple admins deems you've done wrong**
 * **You will be banned if you do these after you have been warned once.**
 
-**Things to avoid doing:**
+###Things to avoid doing:
 * **Polemical Subjects - talking about politics/religion often leads to fights**
 * **Being passive agressive - yes, people are aware that you are actually being agressive**
 * **Passive agressiveness may lead to a warning and a ban**
 
-**Things that are OK:**
+###Things that are actually OK:
 * **Swearing in a context that are not aimed to hurt others**
 * **Posting dank memes**
 * **Posting funny cat videos**
@@ -36,6 +38,10 @@
 
 ##Learning Resources
 **Japanese learning resources recommended by advanced speakers in the group!**
+
 ###Software
 * *zkanji* - Kanji search by various methods, uses JMDict as database http://zkanji.sourceforge.net/
-###Online Resources
+
+###Commercial Resources
+* *Yotsubato! Reading Pack* - for those extreme beginners who love manga/anime, read Yotsubato while you learn http://livingjapanese.com/pages/yotsubato_reading_pack1.html
+* 
