@@ -48,6 +48,7 @@
 ###Software
 ####PC
 * *zkanji* - Kanji search by various methods, uses JMDict as database http://zkanji.sourceforge.net/
+* *Rikaikun/Rikaisama* - a plugin for Firefox/Chrome that lets you hover over Japanese word and give you pop-up of the definition (Please use google/chrome store lmao)
 
 ####Smartphones (search on app/play store)
 * *Japanese Kanji Study* - Kanji Study helps you learn 2000+ kanji with search, quizzing and draw practice
@@ -62,3 +63,7 @@
 * http://jlptbootcamp.com/2012/11/the-official-jlpt-n4-practice-workbook
 * http://jlptbootcamp.com/2013/02/the-official-jlpt-n3-practice-workbook
 
+##Some Tips from Advanced Japanese Group Members:
+**"My advice to all beginners is to start reading things for adults right off the bat (just make sure you can copy past the text quickly), and drill kanji intensively in parallel, I got to reading adult stuff in just few months.  It will be slow as puck at the beginning, but in the speed will be increasing rapidly.  Learning to swim by jumping into sea :3"**
+
+**"I like turtles."**
