@@ -2,8 +2,8 @@
 
 **Here you are encouraged to learn and speak/type Japanese to your heart's content and help others do the same as well.  Please enjoy your stay!**
 
-#Rules
-**Just rules so that everyone can enjoy the group without feeling crappy!**
+##Rules
+**Please take some time to read the rules so that everyone can enjoy the group without feeling crappy!**
 
 **Instant Bans:**
 * **Posting or asking for NSFW/Pornographic multimedia content**
@@ -33,3 +33,7 @@
 * **Posting funny cat videos**
 
 **After a ban, there will be no second chance back into the chatrooms.  Begging and spamming admins to be let back into the group will result in you being reported to Telegram for spam.**
+
+##Learning Resources
+###Software
+* *zkanji* - Kanji search by various methods, uses JMDict as database http://zkanji.sourceforge.net/
