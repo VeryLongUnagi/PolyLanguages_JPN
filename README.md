@@ -2,6 +2,11 @@
 
 **Here you are encouraged to learn and speak/type Japanese to your heart's content and help others do the same as well.  Please enjoy your stay!**
 
+##What Exactly is Japanese Language?
+**If you are completely new to Japanese and don't even know how the language works, read up on Omniglot's Japanese Page to get the basic understanding of the language first! http://www.omniglot.com/writing/japanese_language.htm **
+
+**More resources are available if you scroll down!**
+
 ##Rules
 **Please take some time to read the rules so that everyone can enjoy the group without feeling crappy!**
 
