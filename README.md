@@ -1,4 +1,4 @@
-# Welcome to the Tumblr Languages Japanese Room!
+# Welcome to the Polyglossia Japanese Chat!
 
 **Here you are encouraged to learn and speak/type Japanese to your heart's content and help others do the same as well.  Please enjoy your stay!**
 
